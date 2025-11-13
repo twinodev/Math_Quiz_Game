@@ -7,6 +7,7 @@ A clean, console-based **Math Quiz Game** in Python that challenges you with **1
 ![Issues](https://img.shields.io/github/issues/twinodev/Math_Quiz_Game?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/twinodev/Math_Quiz_Game?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/twinodev/Math_Quiz_Game?style=for-the-badge)
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/VY44H6DSDJKJ4)
 
 ---
 
@@ -100,4 +101,5 @@ Enjoying the game? Give it a star on GitHub!
 ---
 
 [![TwinoDev](https://img.shields.io/badge/TwinoDev-Frosting%20Factory-ff69b4?style=for-the-badge&logo=sparkles&logoColor=white)](https://twino.dev/)  
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/VY44H6DSDJKJ4)
 Made with ❤️ by twinodev
